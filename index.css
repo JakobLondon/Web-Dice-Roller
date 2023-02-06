@@ -1,0 +1,10 @@
+body  {
+    background-color: #f7fcff;
+    margin-right: 32vw;
+    margin-left: 32vw;
+    margin-top:1vw;
+    margin-bottom:2vw;
+}
+input {
+    text-align: right;
+}
